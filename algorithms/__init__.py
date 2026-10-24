@@ -1,0 +1,1 @@
+"""Core pathfinding algorithms for the simulated campus graph."""

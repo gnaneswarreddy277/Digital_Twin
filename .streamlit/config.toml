@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#53b981"
+backgroundColor = "#101916"
+secondaryBackgroundColor = "#18231e"
+textColor = "#e8eee8"
+font = "sans serif"
+
+[server]
+headless = true
+address = "127.0.0.1"
